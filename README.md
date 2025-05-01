@@ -1,0 +1,2 @@
+# NovaChat
+Nova Chat Ollama
